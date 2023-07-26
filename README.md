@@ -10,23 +10,30 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/37efb7b6-5004-409c-a44f-4237dc0c00bb)
+)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/276c3208-20a5-4dca-a287-a58d69596a45)
+![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/da180eb7-0a73-4568-90c1-c6accd2d005c)
+
+)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/afa6cf71-52a1-4925-b923-d2bc9287f6ec)
+)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/2ee6e3ba-019d-4c0c-bf82-38db7f7348d1)
+)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](![image](https://github.com/wtshnadeath/PORTAFOLIO/assets/111034219/7c8f7265-3f0b-4994-8b05-44a73f39eb16)
+)
 
 ## Tecnologías
 
